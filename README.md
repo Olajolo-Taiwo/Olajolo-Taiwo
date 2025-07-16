@@ -1,6 +1,6 @@
 # ✨ About Me
 
-Hi! I'm **Timilehin Olajolo**, a Frontend Developer currently expanding my skills in **JavaScript** and its powerful framework — **React**. 
+Hi! I'm **Timilehin Olajolo**, a Frontend Developer currently expanding my skills in **JavaScript** and it framework — **React**. 
 I’m passionate about building interactive user experiences and continuously improving my knowledge in modern frontend tools and technologies.
 
 ---
