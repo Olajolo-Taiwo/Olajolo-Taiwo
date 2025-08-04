@@ -9,15 +9,13 @@ I also explore technical tools like **MATLAB** and **QGIS** for engineering, sim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/timilehin-olajolo-6248b9279" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  &nbsp;
   <a href="https://x.com/__taiwoolajolo?s=09" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="30" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge" />
   </a>
-  &nbsp;
   <a href="mailto:olajolotaiwo2@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
